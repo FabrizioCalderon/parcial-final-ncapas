@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/supportdb
+    username: postgres
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+jwt:
+  secret: miClaveSecretaSuperSeguraParaJWT2024QueDebeSerMuyLargaParaQueSeaSegura
+  expiration: 86400000 # 24 horas en milisegundos
