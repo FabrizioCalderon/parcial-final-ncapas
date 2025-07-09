@@ -5,7 +5,7 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 ### Estudiantes
 - **Nombre del estudiante 1**: Diego Fabrizio Calderon Quevedo - 00034022
 - **Nombre del estudiante 2**: Marisol Abigail Miranda Flores - 00086320
-- Sección: [Tu sección aquí]
+- Sección: 1
 ---
 
 ## Sistema de Soporte Técnico
