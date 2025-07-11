@@ -68,3 +68,22 @@ _Si van a crear mas endpoints como el login o registrarse recuerden actualizar p
 
 usuarios de prueba: user@test.com password123
                     tech@test.com password123
+
+Cómo ejecutar el proyecto
+
+Prerrequisitos
+- Docker y Docker Compose instalados
+
+ Ejecutar con Docker
+1. Clona el repositorio:
+   git clone
+   cd parcial-final-ncapas
+
+
+2. Levanta la aplicación y la base de datos:
+   docker compose up -d
+
+3. La aplicación estará en: `http://localhost:8081`
+
+4. Para detener los servicios:
+   docker compose down
